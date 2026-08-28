@@ -1,0 +1,27 @@
+title: 渣男骗子罪犯孙宇晨
+subtitle: ""
+author: Sally Jing
+lang: zh
+date: "2026"
+slug: scumbag-liar-criminal-justin-sun
+description: ""
+paper: a5
+fontsize: 11pt
+linespread: 1.4
+margins:
+  top: 20mm
+  bottom: 22mm
+  inside: 18mm
+  outside: 16mm
+toc: false
+twoside: true
+chapter-pagebreak: true
+source: content/rebuttal.md
+accent: "#E31C23"
+disclaimer:
+  - 本文纯属虚构，如果雷同实属巧合
+  - 不设版权，请随意转发分享
+fonts:
+  serif: Source Han Serif
+  sans: Source Han Sans
+  latin: Libertinus Serif

@@ -2,6 +2,7 @@
 dist/
 *.pdf
 !assets/*.pdf
+!渣男骗子罪犯孙宇晨.pdf
 .agents
 content/book.md
 reference/

@@ -4,5 +4,7 @@ dist/
 !assets/*.pdf
 !渣男骗子罪犯孙宇晨.pdf
 .agents
+.claude
+skills-lock.json
 content/book.md
 reference/
